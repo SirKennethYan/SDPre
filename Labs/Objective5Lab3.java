@@ -9,13 +9,13 @@ public class Objective5Lab3 {
       userNum = scanner.nextInt();
 
       if (userNum > 0) {
-        System.out.println(userNum + " is greater than 0");
+        System.out.println(userNum + " The number is positive");
       }    
       else if (userNum < 0) {
-        System.out.println(userNum + " is less than 0");
+        System.out.println(userNum + " The number is negative");
       }
       else {
-        System.out.println(userNum + " is euqal to 0");
+        System.out.println(userNum + " The number is euqal to 0");
       }
 
       scanner.close();
