@@ -15,7 +15,7 @@ public class Objective5Lab3 {
         System.out.println(userNum + " The number is negative");
       }
       else {
-        System.out.println(userNum + " The number is euqal to 0");
+        System.out.println(userNum + " The number is equal to 0");
       }
 
       scanner.close();
